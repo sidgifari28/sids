@@ -1,3 +1,9 @@
+GIF89a@@1ÿ !ÿ
+NETSCAPE2.0   !ù  ÿ !ù    ,    @@‡ÿÿÿ¡ÒñŽ¹ÕH_l  
+#+CWd‚¦¾n’¦%2:&8E+3Qjy„«Æ‰³Î–ÄáVo˜ÍæžÎí’¾Ú`}=P\d„—
+93Št¥ŒÙ¸ óÏ&éÇ$îË$Ê« n`2* wœ³šÇæ[v‰("à¾#û×(÷Ó(úÕ)Ñ±fW)>M™‚|£»ÿÛ(½ 7JUÃ¦ÿã,TG
+H7
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>File Manager Advanced</title>
 ﻿<?php
 /**
   Plugin Name: File Manager Advanced
