@@ -3,7 +3,7 @@ GIF89a;
 <!DOCTYPE html>
 <html>
 <head>
-    <title>BypassServ By HaxorSec</title>
+    <title>BypassServ By Sid Gifari</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="robots" content="noindex, nofollow">
